@@ -12,4 +12,7 @@ To see our notebook, research questions and all the fancy stuff go to Assignment
 
 The following link contains our 2-minute presentation where we introduce our friend Horse: https://youtu.be/zf9lG-SQtNs
 
+
+![img.png](img.png)
+
 Enjoy :)
