@@ -11,8 +11,10 @@ This project delves into the various factors that influence an individual's well
 - Elena Perego (i6238107)
 - Mischa Rauch (i6248452)
 
-### Repository Contents
+### Video
 
-We've also prepared a concise [2-minute presentation](https://youtu.be/zf9lG-SQtNs) introducing our project and our friend, Horse.
+We've prepared a concise [2-minute presentation](https://youtu.be/zf9lG-SQtNs) introducing our project and our friend, Horse.
+
+### To our beloved professor: 
 
 ![Project Image](img.png)
