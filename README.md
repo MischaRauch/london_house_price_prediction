@@ -1,18 +1,18 @@
-# Where should you live in London if you want to be happy? 
-### Group Members: Rosamelia Carioni, Elena Perego, Mischa Rauch
-### Student IDs: i6247275, i6238107, i6248452
+## Where Should You Live in London for Happiness? 
 
-#### This repository is part of an assignment for a course in Data Analysis (KEN3450) at Maastricht University.
+### Project Overview
 
-This project aims to investigate different factors affecting individuals' well-being in different boroughs of London. 
-In addition to this, different models were also built aiming to predict the level of happiness of someone that wants to
-move to the city and is trying to choose the best area to live. 
+This project delves into the various factors that influence an individual's well-being across different boroughs in London. Our goal is to not only understand these factors but also to develop models that can predict the happiness level of someone planning to move to London and is in search of the best area to reside in.
 
-To see our notebook, research questions and all the fancy stuff go to Assignment.ipynb
+**Course:** Data Analysis (KEN3450)  
+**Institution:** Maastricht University  
+**Group Members:** 
+- Rosamelia Carioni (i6247275)
+- Elena Perego (i6238107)
+- Mischa Rauch (i6248452)
 
-The following link contains our 2-minute presentation where we introduce our friend Horse: https://youtu.be/zf9lG-SQtNs
+### Repository Contents
 
+We've also prepared a concise [2-minute presentation](https://youtu.be/zf9lG-SQtNs) introducing our project and our friend, Horse.
 
-![img.png](img.png)
-
-Enjoy :)
+![Project Image](img.png)
