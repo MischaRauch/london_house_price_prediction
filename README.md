@@ -15,6 +15,6 @@ This project delves into the various factors that influence an individual's well
 
 We've prepared a concise [2-minute presentation](https://youtu.be/zf9lG-SQtNs) introducing our project and our friend, Horse.
 
-### To our beloved professor: 
+### To our beloved professor
 
 ![Project Image](img.png)
